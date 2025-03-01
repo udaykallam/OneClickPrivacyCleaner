@@ -27,7 +27,6 @@ One-Click Privacy Cleaner is a lightweight Chrome extension that allows users to
 ## Files Structure
 ```
 OneClickPrivacyCleaner/
-│── icons/              # Folder for extension icons
 │── manifest.json       # Chrome extension configuration
 │── popup.html         # Extension UI
 │── popup.js           # Logic for clearing browsing data
