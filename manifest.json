@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "One-Click Privacy Cleaner",
+    "version": "1.0",
+    "description": "Clear cache, cookies, and history with a single click.",
+    "permissions": ["browsingData"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
